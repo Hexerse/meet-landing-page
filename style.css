@@ -206,7 +206,7 @@ body{
     
 }
 
-@media (min-width:400px){
+@media (min-width:460px){
     .container{
         height: 100%;
         max-width: 50rem;
